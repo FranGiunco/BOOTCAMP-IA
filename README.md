@@ -55,3 +55,4 @@ Leonardo IA：
 - Conteúdo gerado via ChatGPT
 - Imagens geradas via leonardo IA
 
+[EBOOK IA.pdf](https://github.com/user-attachments/files/18337108/EBOOK.IA.pdf)
